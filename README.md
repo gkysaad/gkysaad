@@ -3,7 +3,7 @@
 I'm currently a second year Engineering Science student at the University of Toronto! I enjoy competitive programming as well as working on cool projects and exploring new tech!
 
 ### 💻 I'm currently working on....
-- Full Stack & Mobile Engineering Inten at OrangeTopi (a startup in the Bay Area), I also lead a team of 8-10 other devs! 📱
+- Full Stack & Mobile Engineering Intern at OrangeTopi (a startup in the Bay Area), I also lead a team of 8-10 other devs! 📱
 - A project in the FinTech space working with OpenAI's new GPT-3 beta! 📈
 
 <!--
