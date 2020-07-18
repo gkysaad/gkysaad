@@ -1,4 +1,4 @@
-## Hello! I'm George Saad.
+## 👋 Hello! I'm George Saad.
 
 I'm currently a second year Engineering Science student at the University of Toronto! I enjoy competitive programming as well as working on cool porjects and exploring new tech!
 
