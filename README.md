@@ -7,7 +7,7 @@ I'm currently a second year Engineering Science student at the University of Tor
 - A project in the FinTech space working with OpenAI's new GPT-3 beta! 📈
 
 ### 📫 How to reach me: 
-[LinkedIn](https://www.linkedin.com/in/gkysaad/ "LinkedIn") | [Devpost](https://devpost.com/gkysaad "Devpost") | [Email](mailto:g.saad@mail.utoronto.ca "Email")
+[LinkedIn](https://www.linkedin.com/in/gkysaad/ "LinkedIn") | [Devpost](https://devpost.com/gkysaad "Devpost") | [Email](mailto:g.saad@mail.utoronto.ca "Email") | [Resume](https://georgesaad.me/George's%20Resume.pdf "Resume")
 
 <!--
 **gkysaad/gkysaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
