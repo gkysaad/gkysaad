@@ -4,7 +4,7 @@ I'm currently a second year Engineering Science student at the University of Tor
 
 ### 💻 I'm currently working on....
 - Full Stack & Mobile Engineering Intern at [OrangeTopi](https://orangetopi.com "OrangeTopi") (a startup in the Bay Area), I also lead a team of 8-10 other devs! 📱
-- A project in the FinTech space working with OpenAI's new [GPT-3](https://beta.openai.com/ "GPT-3") beta! 📈
+- A project in the FinTech space working with OpenAI's new [GPT-3](https://beta.openai.com/ "GPT-3") beta! See it [here](https://twitter.com/gkysaad/status/1285717081074409476) 📈
 
 ### 📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/gkysaad/ "LinkedIn") | [Devpost](https://devpost.com/gkysaad "Devpost") | [Email](mailto:g.saad@mail.utoronto.ca "Email") | [Resume](https://georgesaad.me/George's%20Resume.pdf "Resume")
