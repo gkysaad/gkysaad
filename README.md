@@ -10,6 +10,6 @@ I'm currently a second year Engineering Science student at the University of Tor
 - Co-creator of a project in the FinTech space working with OpenAI's new [GPT-3](https://beta.openai.com/ "GPT-3") beta! See it [here](https://twitter.com/gkysaad/status/1285717081074409476). 📈
 
 ### 📫 How to reach me: 
-[LinkedIn](https://www.linkedin.com/in/gkysaad/ "LinkedIn") | [Devpost](https://devpost.com/gkysaad "Devpost") | [Email](mailto:g.saad@mail.utoronto.ca "Email") | [Resume](https://georgesaad.me/George's%20Resume.pdf "Resume")
+[LinkedIn](https://www.linkedin.com/in/gkysaad/ "LinkedIn") | [Devpost](https://devpost.com/gkysaad "Devpost") | [Email](mailto:g.saad@mail.utoronto.ca "Email") | [Resume](https://georgesaad.me/George's%20Resume%20(Fullstack).pdf "Resume")
 
 ![](https://komarev.com/ghpvc/?username=gkysaad)
