@@ -3,6 +3,7 @@
 I'm currently a second year Engineering Science student at the University of Toronto! I enjoy competitive programming as well as working on cool projects and exploring new tech!
 
 ### 💻 I'm currently working as....
+- Software Development Intern @ Loblaw Digital working on the PC Optimum team! 🛒
 - Part-time freelancer working on Couchbase datastore module projects including Akka Play Framework and Vert.x integrations! 📙
 
 ### 🌱 Previously worked as...
