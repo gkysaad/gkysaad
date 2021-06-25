@@ -1,10 +1,10 @@
 ## 👋 Hello! I'm George Saad.
 
-I'm currently a second year Engineering Science student at the University of Toronto! I enjoy competitive programming as well as working on cool projects and exploring new tech!
+I'm currently a third year Engineering Science student at the University of Toronto! I enjoy competitive programming as well as working on cool projects and exploring new tech!
 
 ### 💻 I'm currently working as....
-- Software Development Intern @ Loblaw Digital working on the PC Optimum team! 🛒
-- Part-time freelancer working on Couchbase datastore module projects including Akka Play Framework and Vert.x integrations! 📙
+- Software Development Co-op @ Loblaw Digital working on the PC Optimum backend team, using Spring Boot Java! 🛒
+- Part-time freelancer working on Couchbase datastore module projects including JHipster, Akka Play Framework, and Vert.x integrations! 📙
 
 ### 🌱 Previously worked as...
 - Full Stack & Mobile Engineering Intern @ [OrangeTopi](https://orangetopi.com "OrangeTopi") (a startup in the Bay Area), I also led a team of 8-10 other devs! 📱
