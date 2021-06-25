@@ -13,4 +13,6 @@ I'm currently a second year Engineering Science student at the University of Tor
 ### 📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/gkysaad/ "LinkedIn") | [Devpost](https://devpost.com/gkysaad "Devpost") | [Email](mailto:g.saad@mail.utoronto.ca "Email") | [Resume](https://georgesaad.me/George's%20Resume%20(Fullstack).pdf "Resume")
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gkysaad&show_icons=true&locale=en" alt="gkysaad" /></p>
+
 ![](https://komarev.com/ghpvc/?username=gkysaad)
