@@ -4,6 +4,7 @@ I'm currently a third year Engineering Science student at the University of Toro
 
 ### 💻 I'm currently working as....
 - Part-time freelancer working on Couchbase datastore module projects including JHipster, Akka Play Framework, and Vert.x integrations! 📙
+- Mapping & Localization team member @ aUToronto, the University of Toronto's self-driving car team! 🚗
 
 ### 🌱 Previously worked as...
 - Software Development Co-op @ Loblaw Digital on the PC Optimum backend team, using Spring Boot Java! 🛒
