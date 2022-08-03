@@ -3,10 +3,11 @@
 I'm currently a third year Engineering Science student at the University of Toronto! I enjoy competitive programming as well as working on cool projects and exploring new tech!
 
 ### 💻 I'm currently working as....
-- Teaching Assistant for a first year Engineering Science Data Structures & Algorithms course! 🧑‍🏫
-- Mapping & Localization team member @ aUToronto, the University of Toronto's self-driving car team! 🚗
+- Software Engineer Intern @ [Meta](https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect "Meta") on the Instagram Ads Delivery & Ranking team, working with PHP (Hack) and Python Django! 📱
 
 ### 🌱 Previously worked as...
+- Teaching Assistant for a first year Engineering Science Data Structures & Algorithms course! 🧑‍🏫
+- Mapping & Localization team member @ aUToronto, the University of Toronto's self-driving car team! 🚗
 - Software Development Co-op @ [Loblaw Digital](https://www.loblawdigital.co/ "Loblaw Digital") on the PC Optimum backend team, using Spring Boot Java! 🛒
 - Part-time freelancer working on Couchbase datastore module projects including JHipster, Akka Play Framework, and Vert.x integrations! 📙
 - Full Stack & Mobile Engineering Intern @ [OrangeTopi](https://orangetopi.com "OrangeTopi") (a startup in the Bay Area), I also led a team of 8-10 other devs! 📱
