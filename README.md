@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm George Saad.
 
-I'm currently a third year Engineering Science student at the University of Toronto! I enjoy competitive programming as well as working on cool projects and exploring new tech!
+I'm currently a fourth year Engineering Science student at the University of Toronto, pursuing a major in Machine Intelligence! I enjoy competitive programming as well as working on cool projects and exploring new tech!
 
 ### 💻 I'm currently working as....
 - Teaching Assistant for first year Engineering Science Programming, Data Structures & Algorithms course! 🧑‍🏫
