@@ -3,7 +3,7 @@
 I'm currently a fourth year Engineering Science student at the University of Toronto, pursuing a major in Machine Intelligence! I enjoy competitive programming as well as working on cool projects and exploring new tech!
 
 ### 💻 I'm currently working as....
-- Teaching Assistant for first year Engineering Science Programming, Data Structures & Algorithms course! 🧑‍🏫
+- Teaching Assistant for first year Engineering Science Programming, Data Structures & Algorithms courses! 🧑‍🏫
 
 ### 🌱 Previously worked as...
 - Software Engineer Intern @ [Meta](https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect "Meta") on the Instagram Ads Delivery & Ranking team, working with PHP (Hack) and Python Django! 📱
