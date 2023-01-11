@@ -3,6 +3,7 @@
 I'm currently a fourth year Engineering Science student at the University of Toronto, pursuing a major in Machine Intelligence! I enjoy competitive programming as well as working on cool projects and exploring new tech!
 
 ### 💻 I'm currently working as....
+- Applied Machine Learning Intern at the Vector Institute, working with researchers, professors, and engineers! 🧑‍🔬
 - Teaching Assistant for first year Engineering Science Programming, Data Structures & Algorithms courses! 🧑‍🏫
 
 ### 🌱 Previously worked as...
