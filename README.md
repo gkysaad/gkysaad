@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm George Saad.
 
-I'm currently a fourth year Engineering Science student at the University of Toronto, pursuing a major in Machine Intelligence! I enjoy competitive programming as well as working on cool projects and exploring new tech!
+I'm currently a Master's stduent at the University of Toronto, pursuing research in Conversational Recommender Systems! I graduated from U of T Engineering Science with a major in Machine Intelligence. I enjoy competitive programming as well as working on cool projects and exploring new tech!
 
 ### 💻 I'm currently working as....
 - Applied Machine Learning Intern @ [Vector Institute](https://vectorinstitute.ai/ "Vector Institute"), working on a project in the causal inference space! 🧑‍🔬
@@ -11,7 +11,7 @@ I'm currently a fourth year Engineering Science student at the University of Tor
 - Mapping & Localization team member @ aUToronto, the University of Toronto's self-driving car team! 🚗
 - Software Development Co-op @ [Loblaw Digital](https://www.loblawdigital.co/ "Loblaw Digital") on the PC Optimum backend team, using Spring Boot Java! 🛒
 - Part-time freelancer working on Couchbase module projects including JHipster, Akka Play Framework, and Vert.x integrations! 📙
-- Full Stack & Mobile Engineering Intern @ [OrangeTopi](https://orangetopi.com "OrangeTopi") (a startup in the Bay Area), I also led a team of 8-10 other devs! 📱
+- Full Stack & Mobile Engineering Intern @ OrangeTopi (a startup in the Bay Area), I also led a team of 8-10 other devs! 📱
 - Co-creator of a project in the FinTech space working with OpenAI's [GPT-3](https://beta.openai.com/ "GPT-3")! See it [here](https://twitter.com/gkysaad/status/1285717081074409476). Also featured in an [article in InfoQ](https://www.infoq.com/articles/gpt3-enabled-applications/ "article in InfoQ")! 📈
 
 ### 📫 How to reach me: 
