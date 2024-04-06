@@ -4,7 +4,7 @@ I'm currently a Master's stduent at the University of Toronto, pursuing research
 
 ### 💻 I'm currently working as....
 - Research Assistant @ [D3M Lab, University of Toronto](https://d3m.mie.utoronto.ca/), working on conversation recommender systems research led by Prof. Scott Sanner! ⚛
-- Teaching Assistant for first year Engineering Science Programming, Data Structures & Algorithms courses! 🧑‍🏫
+- Teaching Assistant for first year Engineering Science Programming, Data Structures & Algorithms courses and a second year Data Science course! 🧑‍🏫
 
 ### 🌱 Previously worked as...
 - Applied Machine Learning Intern @ [Vector Institute](https://vectorinstitute.ai/ "Vector Institute"), working on a project in the causal inference space! 🧑‍🔬
