@@ -3,6 +3,7 @@
 I'm currently a Master's stduent at the University of Toronto, pursuing research in Conversational Recommender Systems! I graduated from U of T Engineering Science with a major in Machine Intelligence. I enjoy competitive programming as well as working on cool projects and exploring new tech!
 
 ### 💻 I'm currently working as....
+- Applied Scientist @ [Amazon](https://www.amazon.science/), working on book tagging for search & recommendation! ⚛
 - Research Assistant @ [D3M Lab, University of Toronto](https://d3m.mie.utoronto.ca/), working on conversation recommender systems research led by Prof. Scott Sanner! ⚛
 - Teaching Assistant for first year Engineering Science Programming, Data Structures & Algorithms courses and a second year Data Science course! 🧑‍🏫
 
