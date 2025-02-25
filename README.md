@@ -14,8 +14,9 @@ I'm currently a Master's stduent at the University of Toronto, pursuing research
 - Mapping & Localization team member @ aUToronto, the University of Toronto's self-driving car team! 🚗
 - Software Development Co-op @ [Loblaw Digital](https://www.loblawdigital.co/ "Loblaw Digital") on the PC Optimum backend team, using Spring Boot Java! 🛒
 - Part-time freelancer working on Couchbase module projects including JHipster, Akka Play Framework, and Vert.x integrations! 📙
-- Full Stack & Mobile Engineering Intern @ OrangeTopi (a startup in the Bay Area), I also led a team of 8-10 other devs! 📱
-- Co-creator of a project in the FinTech space working with OpenAI's [GPT-3](https://beta.openai.com/ "GPT-3")! See it [here](https://twitter.com/gkysaad/status/1285717081074409476). Also featured in an [article in InfoQ](https://www.infoq.com/articles/gpt3-enabled-applications/ "article in InfoQ")! 📈
+- Lead Software Engineer @ OrangeTopi (a startup in the Bay Area), I also led a team of 8-10 other devs! 📱
+- Software Engineer Intern @ Delovery, building a grocery delivery platform during the pandemic! 🛒
+- Co-creator of a project in the FinTech space working with OpenAI's [GPT-3](https://beta.openai.com/ "GPT-3")! See it [here](https://twitter.com/gkysaad/status/1285717081074409476). Also featured in an [article in InfoQ](https://www.infoq.com/articles/gpt3-enabled-applications/ "article in InfoQ") and on YC Hacker News! 📈
 
 ### 📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/gkysaad/ "LinkedIn") | [Devpost](https://devpost.com/gkysaad "Devpost") | [Email](mailto:g.saad@mail.utoronto.ca "Email") | [Resume](https://georgesaad.tech/George's%20Resume%20(Academic).pdf "Resume")
